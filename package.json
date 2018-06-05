@@ -23,6 +23,7 @@
     "babel-eslint": "^8.0.0",
     "broccoli-asset-rev": "^2.7.0",
     "ember-ajax": "^3.0.0",
+    "ember-angle-bracket-invocation-polyfill": "^1.0.2",
     "ember-cli": "github:ember-cli/ember-cli",
     "ember-cli-app-version": "^3.0.0",
     "ember-cli-babel": "^6.6.0",

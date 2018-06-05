@@ -1,6 +1,8 @@
 import Component from '@ember/component';
+import { classNames } from '@ember-decorators/component';
 import { computed } from '@ember-decorators/object';
 
+@classNames('static-class')
 export default class TomsterLogo extends Component {
   @computed('filename', 'filetype')
   get tomsterPath() {
