@@ -1,9 +1,9 @@
-import Component from '@ember/component';
+import { CompatComponent as Component } from 'ember-glimmer-component';
 import { classNames } from '@ember-decorators/component';
 import { computed } from '@ember-decorators/object';
 
 @classNames('static-class')
-export default class TomsterLogo extends Component {
+export default class extends Component {
   @computed('filename', 'filetype')
   get tomsterPath() {
     return `/img/${this.filename}.${this.filetype}`
