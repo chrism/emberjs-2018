@@ -8,3 +8,7 @@ body {
 
   background: #EFEFEF;
 }
+
+h1 {
+  text-transform: capitalize;
+}
