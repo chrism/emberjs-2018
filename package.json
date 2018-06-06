@@ -23,7 +23,6 @@
     "babel-eslint": "^8.0.0",
     "broccoli-asset-rev": "^2.7.0",
     "ember-ajax": "^3.0.0",
-    "ember-angle-bracket-invocation-polyfill": "^1.0.2",
     "ember-cli": "github:ember-cli/ember-cli",
     "ember-cli-app-version": "^3.0.0",
     "ember-cli-babel": "^6.6.0",
@@ -41,7 +40,7 @@
     "ember-load-initializers": "^1.1.0",
     "ember-maybe-import-regenerator": "^0.1.6",
     "ember-resolver": "^4.0.0",
-    "ember-source": "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/5431f71df060e7b5c82c05c300f40e9151d135e8.tgz",
+    "ember-source": "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/fe23def07ebe22e0ba44f97897bd63962f37c3ca.tgz",
     "ember-welcome-page": "^3.0.0",
     "eslint-plugin-ember": "^5.0.0",
     "loader.js": "^4.2.3"
