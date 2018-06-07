@@ -1,4 +1,4 @@
-import Component from '@ember/component';
+import { CompatComponent as Component } from 'ember-glimmer-component';
 import { classNames } from '@ember-decorators/component';
 import { computed } from '@ember-decorators/object';
 
