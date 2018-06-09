@@ -7,20 +7,13 @@ module('Integration | Component | tomster-logo', function(hooks) {
   setupRenderingTest(hooks);
 
   test('it renders', async function(assert) {
-    // Set any properties with this.set('myProperty', 'value');
-    // Handle any actions with this.set('myAction', function(val) { ... });
+    this.model = {
+      filename: "tomster",
+      filetype: "png"
+    }
 
-    await render(hbs`{{tomster-logo}}`);
+    await render(hbs`<TomsterLogo @filename={{model.filename}} @filetype={{model.filetype}} />`);
 
-    assert.equal(this.element.textContent.trim(), '');
-
-    // Template block usage:
-    await render(hbs`
-      {{#tomster-logo}}
-        template block text
-      {{/tomster-logo}}
-    `);
-
-    assert.equal(this.element.textContent.trim(), 'template block text');
+    assert.equal(this.element.querySelector('img').alt, 'Tomster Logo');
   });
 });
