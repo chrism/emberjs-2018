@@ -3,11 +3,9 @@ import { Promise } from 'rsvp';
 import { later } from '@ember/runloop';
 
 export default class ApplicationRoute extends Route {
-  model() {
-    const delayPromise = new Promise(resolve => later(resolve, 2000));
+  async model() {
+    await new Promise(resolve => later(resolve, 2000));
 
-    return delayPromise.then(() => {
-      return { filename: "tomster", filetype: "png" };
-    });
+    return { filename: "tomster", filetype: "png" };
   }
 }
