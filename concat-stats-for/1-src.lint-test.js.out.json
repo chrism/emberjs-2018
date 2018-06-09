@@ -1,0 +1,61 @@
+{
+  "outputFile": "/src.lint-test.js",
+  "files": [
+    {
+      "relativePath": "main.lint-test.js",
+      "sizes": {
+        "raw": 118,
+        "uglified": 89,
+        "compressed": 18.410285714285713
+      }
+    },
+    {
+      "relativePath": "resolver.lint-test.js",
+      "sizes": {
+        "raw": 126,
+        "uglified": 97,
+        "compressed": 20.06514285714286
+      }
+    },
+    {
+      "relativePath": "router.lint-test.js",
+      "sizes": {
+        "raw": 122,
+        "uglified": 93,
+        "compressed": 19.237714285714286
+      }
+    },
+    {
+      "relativePath": "ui/components/tomster-logo/component-test.lint-test.js",
+      "sizes": {
+        "raw": 192,
+        "uglified": 163,
+        "compressed": 33.71771428571429
+      }
+    },
+    {
+      "relativePath": "ui/components/tomster-logo/component.lint-test.js",
+      "sizes": {
+        "raw": 182,
+        "uglified": 153,
+        "compressed": 31.649142857142856
+      }
+    },
+    {
+      "relativePath": "ui/routes/application/route-test.lint-test.js",
+      "sizes": {
+        "raw": 174,
+        "uglified": 145,
+        "compressed": 29.994285714285713
+      }
+    },
+    {
+      "relativePath": "ui/routes/application/route.lint-test.js",
+      "sizes": {
+        "raw": 164,
+        "uglified": 135,
+        "compressed": 27.925714285714285
+      }
+    }
+  ]
+}

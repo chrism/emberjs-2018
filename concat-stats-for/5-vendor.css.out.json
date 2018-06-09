@@ -1,0 +1,12 @@
+{
+  "outputFile": "/assets/vendor.css",
+  "files": [
+    {
+      "relativePath": "vendor/welcome-page.css",
+      "sizes": {
+        "raw": 2200,
+        "compressed": 657
+      }
+    }
+  ]
+}

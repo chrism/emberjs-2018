@@ -1,0 +1,221 @@
+{
+  "outputFile": "/Users/chrismasters/git/emberjs-2018/tmp/source_map_concat-output_path-T3y5zoVa.tmp/assets/emberjs-2018.js",
+  "files": [
+    {
+      "relativePath": "vendor/ember-cli/app-prefix.js",
+      "sizes": {
+        "raw": 16,
+        "uglified": 13,
+        "compressed": 3.277027027027027
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/component-managers/glimmer.js",
+      "sizes": {
+        "raw": 373,
+        "uglified": 276,
+        "compressed": 69.57380457380458
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/components/glimmer-component-compat.js",
+      "sizes": {
+        "raw": 421,
+        "uglified": 294,
+        "compressed": 74.11122661122661
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/components/glimmer-component.js",
+      "sizes": {
+        "raw": 395,
+        "uglified": 280,
+        "compressed": 70.58212058212058
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/components/welcome-page.js",
+      "sizes": {
+        "raw": 370,
+        "uglified": 265,
+        "compressed": 66.80093555093555
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/helpers/app-version.js",
+      "sizes": {
+        "raw": 1166,
+        "uglified": 550,
+        "compressed": 138.64345114345113
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/helpers/pluralize.js",
+      "sizes": {
+        "raw": 259,
+        "uglified": 190,
+        "compressed": 47.895010395010395
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/helpers/singularize.js",
+      "sizes": {
+        "raw": 267,
+        "uglified": 194,
+        "compressed": 48.903326403326396
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/initializers/app-version.js",
+      "sizes": {
+        "raw": 580,
+        "uglified": 362,
+        "compressed": 91.25259875259876
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/initializers/container-debug-adapter.js",
+      "sizes": {
+        "raw": 594,
+        "uglified": 432,
+        "compressed": 108.8981288981289
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/initializers/ember-data.js",
+      "sizes": {
+        "raw": 324,
+        "uglified": 229,
+        "compressed": 57.726091476091476
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/initializers/export-application-global.js",
+      "sizes": {
+        "raw": 1385,
+        "uglified": 692,
+        "compressed": 174.43866943866945
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/instance-initializers/ember-data.js",
+      "sizes": {
+        "raw": 344,
+        "uglified": 234,
+        "compressed": 58.98648648648649
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/services/ajax.js",
+      "sizes": {
+        "raw": 328,
+        "uglified": 237,
+        "compressed": 59.7427234927235
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/main.js",
+      "sizes": {
+        "raw": 771,
+        "uglified": 448,
+        "compressed": 112.93139293139292
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/resolver.js",
+      "sizes": {
+        "raw": 592,
+        "uglified": 312,
+        "compressed": 78.64864864864866
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/router.js",
+      "sizes": {
+        "raw": 404,
+        "uglified": 276,
+        "compressed": 69.57380457380458
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/ui/components/tomster-logo/component-test.js",
+      "sizes": {
+        "raw": 2551,
+        "uglified": 1290,
+        "compressed": 325.1819126819127
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/ui/components/tomster-logo/component.js",
+      "sizes": {
+        "raw": 3799,
+        "uglified": 1934,
+        "compressed": 487.52079002079
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/ui/components/tomster-logo/template.js",
+      "sizes": {
+        "raw": 540,
+        "uglified": 451,
+        "compressed": 113.68762993762994
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/ui/components/tomster-title/template.js",
+      "sizes": {
+        "raw": 456,
+        "uglified": 377,
+        "compressed": 95.03378378378378
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/ui/routes/application/route-test.js",
+      "sizes": {
+        "raw": 399,
+        "uglified": 277,
+        "compressed": 69.82588357588358
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/ui/routes/application/route.js",
+      "sizes": {
+        "raw": 2621,
+        "uglified": 1286,
+        "compressed": 324.17359667359665
+      }
+    },
+    {
+      "relativePath": "emberjs-2018/src/ui/routes/application/template.js",
+      "sizes": {
+        "raw": 581,
+        "uglified": 484,
+        "compressed": 122.006237006237
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/app-suffix.js",
+      "sizes": {
+        "raw": 1,
+        "uglified": 0,
+        "compressed": 0
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/app-config.js",
+      "sizes": {
+        "raw": 527,
+        "uglified": 350,
+        "compressed": 88.22765072765073
+      }
+    },
+    {
+      "relativePath": "vendor/ember-cli/app-boot.js",
+      "sizes": {
+        "raw": 169,
+        "uglified": 110,
+        "compressed": 27.72869022869023
+      }
+    }
+  ]
+}
