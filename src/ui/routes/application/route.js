@@ -1,9 +1,11 @@
 import Route from '@ember/routing/route';
+import fetch from 'fetch';
 
 export default class ApplicationRoute extends Route {
   async model() {
-    await new Promise(resolve => setTimeout(resolve, 2000));
+    let response = await fetch('/api/tomsters/1');
+    let json = await response.json();
 
-    return { filename: "tomster", filetype: "png" };
+    return json["data"]["attributes"];
   }
 }
